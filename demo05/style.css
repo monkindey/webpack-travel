@@ -1,0 +1,9 @@
+body {
+    background: #ccc;
+}
+
+.test {
+	height: 200px;
+	width: 200px;
+	background: url(small.png) no-repeat;
+}
