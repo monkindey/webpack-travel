@@ -1,0 +1,7 @@
+body {
+    background: #ccc;
+}
+
+.image {
+	background: url(../img/big.png) no-repeat;
+}

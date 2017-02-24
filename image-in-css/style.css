@@ -1,0 +1,15 @@
+body {
+    background: #ccc;
+}
+
+.small-image {
+	height: 200px;
+	width: 200px;
+	background: url(images/small.png) no-repeat;
+}
+
+.big-image {
+	height: 200px;
+	width: 200px;
+	background: url(big.png) no-repeat;
+}
