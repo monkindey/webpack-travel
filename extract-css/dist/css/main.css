@@ -3,5 +3,5 @@ body {
 }
 
 .image {
-	background: url(./dist/img/big.png) no-repeat;
+	background: url(/oos/webpack-travel/extract-css/dist/img/big.png) no-repeat;
 }

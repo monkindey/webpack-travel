@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "build:extract-css": "cd extract-css && webpack"
+  },
   "dependencies": {
     "css-loader": "^0.26.1",
     "extract-text-webpack-plugin": "beta",
