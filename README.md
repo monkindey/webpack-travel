@@ -1,9 +1,18 @@
 ## Travelling with webpack
 
-* **Hello webpack**: `webpack ./entry.js ./bundle.js`
-* **Use require**: `webpack ./entry.js ./bundle.js`
-* **CSS in Javascript**: `webpack ./entry.js ./bundle.js`
-* **Use webpack config**: `webpack`
-* **Image in CSS**: `webpack`
-* **Remove Dev Code**: `webpack`
-* **Extract CSS**: `webpack`
+<details>
+	<summary>**Table of Content**</summary>
+	<p>**Hello webpack**: `webpack ./entry.js ./bundle.js`</p>
+	<p>**Use require**: `webpack ./entry.js ./bundle.js`</p>
+	<p>**CSS in Javascript**: `webpack ./entry.js ./bundle.js`</p>
+	<p>**Use webpack config**: `webpack`</p>
+	<p>**Image in CSS**: `webpack`</p>
+	<p>**Remove Dev Code**: `webpack`</p>
+	<p>**Extract CSS**: `webpack`</p>
+	<p>**Tree Shaking**</p>
+</details>
+
+### To Be Determined
+
+* **code splitting**
+* **hot module replacement**
