@@ -3,5 +3,5 @@ body {
 }
 
 .image {
-	background: url(./dist/img/big.png) no-repeat;
+	background: url(/dist/img/big.png) no-repeat;
 }
