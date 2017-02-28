@@ -14,5 +14,5 @@
 
 ### To Be Determined
 
-* **code splitting**
-* **hot module replacement**
+* **Code Splitting**
+* **Hot Module Replacement**
