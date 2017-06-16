@@ -1,18 +1,36 @@
-## Travelling with webpack
+## Have fun with webpack
 
-<details>
-	<summary>**Table of Content**</summary>
-	<p>**Hello webpack**: `webpack ./entry.js ./bundle.js`</p>
-	<p>**Use require**: `webpack ./entry.js ./bundle.js`</p>
-	<p>**CSS in Javascript**: `webpack ./entry.js ./bundle.js`</p>
-	<p>**Use webpack config**: `webpack`</p>
-	<p>**Image in CSS**: `webpack`</p>
-	<p>**Remove Dev Code**: `webpack`</p>
-	<p>**Extract CSS**: `webpack`</p>
-	<p>**Tree Shaking**</p>
-</details>
+* **Hello webpack** 
+  ```shell
+  webpack ./entry.js ./bundle.js`
+  ```
+* **Use require**
+  ```shell
+  webpack ./entry.js ./bundle.js`
+  ```
+* **CSS in Javascript**
+  ```shell
+  webpack ./entry.js ./bundle.js`
+  ```
+* **Use webpack config**
+  ```shell
+  webpack
+  ```
+* **Image in CSS**
+  ```shell
+  webpack
+  ```
+* **Remove Dev Code**
+  ```shell
+  webpack
+  ```
+* **Extract CSS**
+  ```shell
+  webpack
+  ```
+* **Tree Shaking**
+* **Hot Module Replacement**
 
 ### To Be Determined
 
 * **Code Splitting**
-* **Hot Module Replacement**
