@@ -29,8 +29,14 @@
   webpack
   ```
 * **Tree Shaking**
+  ```shell
+  cd tree-shaking & webpack
+  ```
 * **Hot Module Replacement**
-
-### To Be Determined
-
+  ```shell
+  cd hmr & webpack
+  ```
 * **Code Splitting**
+  ```shell
+  cd router-code-split & webpack
+  ```
