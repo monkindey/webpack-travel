@@ -1,42 +1,15 @@
-## Have fun with webpack
+## Happy webpacking
 
-* **Hello webpack** 
-  ```shell
-  webpack ./entry.js ./bundle.js`
-  ```
-* **Use require**
-  ```shell
-  webpack ./entry.js ./bundle.js`
-  ```
-* **CSS in Javascript**
-  ```shell
-  webpack ./entry.js ./bundle.js`
-  ```
-* **Use webpack config**
-  ```shell
-  webpack
-  ```
-* **Image in CSS**
-  ```shell
-  webpack
-  ```
-* **Remove Dev Code**
-  ```shell
-  webpack
-  ```
-* **Extract CSS**
-  ```shell
-  webpack
-  ```
-* **Tree Shaking**
-  ```shell
-  cd tree-shaking & webpack
-  ```
-* **Hot Module Replacement**
-  ```shell
-  cd hmr & webpack
-  ```
-* **Code Splitting**
-  ```shell
-  cd router-code-split & webpack
-  ```
+|name|bash|
+|:--:|:--:|
+|Hello Webpack| `webpack ./entry.js ./bundle.js``
+|Use Require| as above |
+|CSS in Javascript| as above |
+|Use webpack config| cd webpack-config && webpack |
+|Image in CSS| cd image-in-css && webpack |
+|Remove Dev Code| cd remove-dev-code && webpack |
+|Extract CSS| cd extract-css && webpack |
+|Tree Shaking| cd tree-shaking && webpack |
+|Hot Module Replacement| cd hmr && webpack|
+|Code Splitting|cd router-code-split & webpack|
+|Scope Hoisting|cd scope-hoisting & webpack|
