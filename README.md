@@ -1,11 +1,14 @@
 ## Happy webpacking
 
+Based On webpack@3.0
+
 |name|bash|
 |:--:|:--:|
-|Hello Webpack| `webpack ./entry.js ./bundle.js``
+|Hello Webpack| `webpack ./entry.js ./bundle.js`|
 |Use Require| as above |
 |CSS in Javascript| as above |
 |Use webpack config| cd webpack-config && webpack |
+|Multi Output| cd multi-output && webpack |
 |Image in CSS| cd image-in-css && webpack |
 |Remove Dev Code| cd remove-dev-code && webpack |
 |Extract CSS| cd extract-css && webpack |
