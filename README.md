@@ -14,6 +14,7 @@ Based On webpack@3.0
 |Remove Dev Code| cd remove-dev-code && webpack |
 |Extract CSS| cd extract-css && webpack |
 |DLL| npm run build:dll |
+|Alias| npm run build:alias |
 |Tree Shaking| cd tree-shaking && webpack |
 |Hot Module Replacement| cd hmr && webpack|
 |Code Splitting|cd router-code-split & webpack|

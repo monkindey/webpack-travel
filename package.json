@@ -2,7 +2,10 @@
   "scripts": {
     "build:extract-css": "cd extract-css && webpack",
     "build:dll": "cd dll && webpack --config webpack.dll.config.js && webpack",
-    "build:hmr": "cd hmr && webpack-dev-server"
+    "build:hmr": "cd hmr && webpack-dev-server",
+    "build:alias:prod": "cd alias && NODE_ENV=production webpack",
+    "build:alias": "cd alias && webpack",
+    "build:noalias": "cd alias && NODE_ENV=notAlias webpack"
   },
   "dependencies": {
     "express": "^4.15.2",
