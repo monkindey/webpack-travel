@@ -1,6 +1,7 @@
 {
   "scripts": {
     "build:extract-css": "cd extract-css && webpack",
+    "build:dll": "cd dll && webpack --config webpack.dll.config.js && webpack",
     "build:hmr": "cd hmr && webpack-dev-server"
   },
   "dependencies": {
