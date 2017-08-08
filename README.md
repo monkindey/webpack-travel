@@ -5,8 +5,9 @@ Based On webpack@3.0
 |name|bash|
 |:--:|:--:|
 |Hello Webpack| `webpack ./entry.js ./bundle.js`|
-|Use Require| as above |
-|CSS in Javascript| as above |
+|Use Require| As Above |
+|CSS in Javascript| As Above |
+|Multi Compiler| cd multi-compiler && webpack |
 |Use webpack config| cd webpack-config && webpack |
 |Multi Output| cd multi-output && webpack |
 |Image in CSS| cd image-in-css && webpack |
