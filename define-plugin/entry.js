@@ -9,4 +9,8 @@ class HelloReact extends Component {
   }
 }
 
+if (process.env.NODE_ENV !== 'production') {
+  console.log('hello');
+}
+
 ReactDOM.render(<HelloReact />, host);
