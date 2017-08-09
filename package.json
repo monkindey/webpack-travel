@@ -7,7 +7,9 @@
     "build:alias": "cd alias && webpack",
     "build:notalias": "cd alias && NODE_ENV=notAlias webpack",
     "build:exclude": "cd exclude && NODE_ENV=exclude webpack",
-    "build:notexclude": "cd exclude && webpack"
+    "build:notexclude": "cd exclude && webpack",
+    "build:definePlugin": "cd define-plugin && NODE_ENV=production webpack",
+    "build:notdefinePlugin": "cd define-plugin && webpack"
   },
   "dependencies": {
     "express": "^4.15.2",
