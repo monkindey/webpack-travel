@@ -3,10 +3,12 @@ const path = require('path');
 
 module.exports = function() {
   const env = process.env.NODE_ENV;
-  const babelPlugins = ['transform-object-assign'];
+  const babelPlugins = [];
 
   if (env === 'runtime') {
     babelPlugins.push(['transform-runtime']);
+  } else {
+    babelPlugins.push(['transform-object-assign']);
   }
 
   const config = {
