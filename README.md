@@ -19,3 +19,4 @@ Based On webpack@3.0
 |Hot Module Replacement| cd hmr && webpack|
 |Code Splitting|cd router-code-split & webpack|
 |Scope Hoisting|cd scope-hoisting & webpack|
+|Babel Runtime|npm run build runtime|
