@@ -9,7 +9,9 @@
     "build:exclude": "cd exclude && NODE_ENV=exclude webpack",
     "build:notexclude": "cd exclude && webpack",
     "build:runtime": "cd babel-runtime && NODE_ENV=runtime webpack",
-    "build:notruntime": "cd babel-runtime && webpack"
+    "build:notruntime": "cd babel-runtime && webpack",
+    "build:definePlugin": "cd define-plugin && NODE_ENV=production webpack",
+    "build:notdefinePlugin": "cd define-plugin && webpack"
   },
   "dependencies": {
     "babel-plugin-transform-object-assign": "^6.22.0",
